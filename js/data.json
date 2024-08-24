@@ -1,0 +1,22 @@
+{
+    "categories": [
+      {
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": 1,
+            "name": "Widget 1",
+            "fields": {
+              "Connected": 2,
+              "Disconnected": 2
+            }
+          },
+          {
+            "id": 2,
+            "name": "Widget 2",
+            "fields": {}
+          }
+        ]
+      }
+    ]
+  }
